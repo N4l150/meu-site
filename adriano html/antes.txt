@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tradutor de linguagem de sinais</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <h1>NK technology</h1>
+    <h3>Tradutor de linguagem de sinais</h3>
+    <header><h4> Um aparelho portátil que transforma o som da voz em imagens de linguagem de sonais , facilitando a comunicação entre surdos e ouvintes em todo o globo terrestre </h4></header>
+
+    <nav>
+        <ul>
+            <a href="#"><li>home</li></a>
+            <a href="#"><li>eletrodomésticos</li></a>
+            <a href="#"><li>Lançamentos </li></a>
+            <a href="#"><li></li>tecnologia de ponta</a>
+        </ul>
+    
+    </nav>
+    <main>
+
+
+<img src="celular.png">
+<img src="celular2.png">
+<img src="celular3.png">
+<br>
+<br>
+<br>
+<div class="Nalyson">
+    <div class='esquerda'><p>Nos últimos anos, tem havido avanços significativos na tecnologia de comunicação, visando a inclusão e a acessibilidade para pessoas com deficiência auditiva. Uma inovação promissora que está ganhando destaque é um dispositivo portátil capaz de transformar o som da voz em imagens de linguagem de sinais em tempo real.
+
+        Imagine um mundo onde a comunicação entre surdos e ouvintes é fluida e sem barreiras. Esse dispositivo revolucionário tornaria isso uma realidade. Através de algoritmos avançados de processamento de som e reconhecimento de padrões, o aparelho captura a voz do interlocutor e a traduz instantaneamente em imagens de linguagem de sinais.
+        
+        A importância desse dispositivo não pode ser subestimada. Para os surdos, ele representa a libertação das limitações impostas pela barreira da linguagem. Não mais dependerão exclusivamente da interpretação de terceiros ou de ferramentas de texto para se comunicar. Agora, poderão se expressar livremente, com suas próprias palavras e emoções, através da linguagem de sinais.
+                        </p>
+    </div>
+
+    <div class='direita'><p>Para os ouvintes, o dispositivo oferece uma oportunidade única de aprender e entender a linguagem de sinais de uma maneira mais direta e imersiva. Ele facilita a comunicação e promove a inclusão, criando uma sociedade mais justa e igualitária para todos.
+
+        O impacto positivo desse aparelho não se limita a uma região específica, mas se estende por todo o globo terrestre. Ele quebra as barreiras linguísticas e culturais, promovendo a compreensão e a empatia entre diferentes comunidades em todo o mundo facilitando assim tambem com que eles posssam viajar por todo o mundo se comunicando com todos idenpendente de sua limitação ou lingua.
+        
+        Em resumo, o desenvolvimento desse aparelho portátil é crucial para promover a inclusão e a igualdade de oportunidades para pessoas com deficiência auditiva. Ele representa um passo significativo em direção a um mundo onde a comunicação é verdadeiramente universal e acessível a todos, porque sabemos que todos são importantes e merecem respeito de todos.                        
+                        </p>    
+    </div>
+</div>
+<br>
+<br>
+
+
+    <div class="box">
+        <div class="title"><br>
+                <h5>Dados, Informações e descrição  do produto</h5>
+                
+            </div>
+            <div class="body">Com  a tecnologia de uma WAAW ME 100SB  e bluetooth 5.0, alem de um microfone AKG WMS40 embutido, sendo essa toda a estrutura sonora, Na parte visual nosso sistema conta com uma  camera de 108 megapixels e resolução de 12000x9000 pixels e gravar vídeos em 4K com uma espantosa resolução de 3840x2160 pixels, e possui 2 variações de bateria 100v/240v com duração de cerca 24 horas longe do carregador.
+        </div>     
+     </div>
+
+     <div class ="box">
+        <div class="body"> <img src="valdecir.jpg" width=200> 
+
+        </div>
+        
+    
+        </div>
+
+     
+
+
+
+     </div>
+
+        <h2>Compre já</h2>
+
+        
+
+   <button>comprar</button>
+    </main>
+   <br>
+   <br>
+
+
+   
+    <footer>
+        &copy; NK technology
+        <p>Contatos<br>
+        telefone: (88) 40028922<br>
+        Email: NK_technology@gmail.com<br>
+        <p>pagina direcionada para ouvidoria dos clientes<br>
+        <a href="#">Fale conosco</a></p>
+        </p>
+    </footer>
+</body>
+</html>
